@@ -6,7 +6,7 @@ title: About Shivam
 
 - [Fork on GitHub](https://github.com/)
 
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
+[<img src="https://shivarma.github.io/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
 
 ## Skills
 
