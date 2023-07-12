@@ -20,13 +20,11 @@ title: About Shivam
 * Threat Analysis and Risk Assessment, CICD, SCA, SAST, DAST, IAC, YAML, Jenkins, OWASP Top 10, Version Control- Git, Netsparker, Checkmarx, SonarQube
 
 
-### As a Boilerplate / Fork
+### Application Security
 
-_(deprecated, not recommended)_
+* Source Code Review, Web Pentesting, API Pentesting, Andriod & IOS Pentesting, Burp Suite
 
-1. [Fork the repo](https://github.com/daviddarnes/garth#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `LICENSE`, `screenshot.png`, `CNAME` and `garth-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+### Programing and Data Science
+
+* HTML, CSS, javaScript, C, C++, Java, Shell Script, SQL, Python, Django, Numpy, Pandas, Tensorflow
+
