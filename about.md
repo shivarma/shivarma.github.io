@@ -9,24 +9,16 @@ title: About Shivam
 
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
 
-## Installation
+## Skills
 
-### As a Jekyll theme
+### Cloud Security
 
-1. Add `gem "garth-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: garth-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+* Secure Architecture Design, Azure, AWS, GCP, CSPM, Vulnerability Management,Conainer Security, Kubernetes, Docker, Qualys, Prisma
 
-### As a GitHub Pages remote theme
+### DevSecOps
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/garth` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+* Threat Analysis and Risk Assessment, CICD, SCA, SAST, DAST, IAC, YAML, Jenkins, OWASP Top 10, Version Control- Git, Netsparker, Checkmarx, SonarQube
+
 
 ### As a Boilerplate / Fork
 
